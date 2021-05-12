@@ -1,6 +1,15 @@
 # mnist_tutorial
 A tutorial for MNIST handwritten digit classification using sklearn, PyTorch and Keras.
 
+# My results (Pytorch)
+| Question | Train Accuracy | Test Accuracy |
+|:-------|:-------:|:-------:|
+| 1 | 97.43 | 87.60 |
+| 2 | 81.95 | 80.60 |
+| 3 | 97.98 | 86.20 |
+| 4 | 94.10 | 88.70 |
+| 5 | 99.83 | 99.56 |
+
 # Code structure
 * [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
 * [`pytorch.ipynb`](pytorch.ipynb): for pytorch.
